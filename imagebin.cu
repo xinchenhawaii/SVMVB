@@ -4,6 +4,7 @@ For method description see:
 Efficient Implementation of Local Adaptive Thresholding Techniques Using Integral Images
 http://www.dfki.uni-kl.de/~shafait/papers/Shafait-efficient-binarization-SPIE08.pdf
 This code is also a part of paper: SVM-voting Binarization for Degraded Document Images
+Submited to ICIP 2014
 Author: Xin Chen (xinchen.hawaii@gmail.com) 
 Date: November 4, 2013
 */
