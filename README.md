@@ -3,7 +3,7 @@ SVMVB
 
 CUDA kernel code of Sauvola's algorithm
 
-It is only used for research and academic purpose
+It is only used for research and academic purpose.
 Please refer to this paper:
 CUDA-accelerated fast Sauvola’s method on Kepler architecture
 Authors: Xin Chen, Yuefang Gao, Zhonghong Huang
